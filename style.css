@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+
+h2{
+    color: orange;
+}
+
+h3{
+    color: orange;
+}
+
+h4{
+    color: orange;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+/* style navigationbaren */
+nav{
+    background-color: rgb(0, 170, 255);
+    padding: 0.05rem;
+}
+
